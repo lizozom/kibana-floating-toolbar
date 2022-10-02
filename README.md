@@ -1,6 +1,7 @@
 # Floating Kibana Toolbar
 
 Free up Kibana screen real estate with a floating top navigation toolbar.
+Tested on Kibana 7.17 and 8.x.
 
 ![floating-toolbar](https://user-images.githubusercontent.com/3016806/193449690-a6ceb4f3-fe71-40b2-a26a-25ad1aa416f2.gif)
 
