@@ -1,4 +1,4 @@
-# Floating Kibana Toolbar
+# Kibana Floating Toolbar
 
 Free up Kibana screen real estate with a floating top navigation toolbar.
 
