@@ -1,0 +1,14 @@
+{
+  "id": "kibanaFloatingToolbar",
+  "version": "1.0.0",
+  "kibanaVersion": "kibana",
+  "owner": {
+    "name": "lizozom",
+    "githubTeam": ""
+  },
+  "description": "Floating kibana toolbar mode to free up more real estate",
+  "server": false,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}

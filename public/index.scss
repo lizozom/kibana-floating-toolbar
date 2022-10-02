@@ -1,0 +1,37 @@
+body.floating-toolbar {
+    &.kbnBody.euiBody--headerIsFixed {
+        padding-top: 10px;
+    }
+
+    nav.euiFlyout {
+        height: 100% !important;
+        top: 0 !important;
+    }
+
+    #kibana-body {
+        header.headerGlobalNav {
+            position: fixed;
+            left: 0;
+            right: 0;
+            top: -86px;
+            transition: top 1s ease 0s;
+            z-index: 1000;
+
+            .euiHeader {
+                position: relative;     
+                top: 0;    
+                
+            }
+
+            &:hover {
+                transition: top 1s ease 0s;
+                top: 0px;
+            }
+        }
+    }
+   
+}
+
+.euiHeaderSectionItemCustomButton {
+    color: white;
+}
