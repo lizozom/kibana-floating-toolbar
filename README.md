@@ -2,6 +2,11 @@
 
 Free up Kibana screen real estate with a floating top navigation toolbar.
 
+![floating-toolbar](https://user-images.githubusercontent.com/3016806/193449690-a6ceb4f3-fe71-40b2-a26a-25ad1aa416f2.gif)
+
+This plugins adds a top nav button that allows to dock \ undock the top navigation bar.
+The preferred configuration is stored on local storage between sessions and is shared between kibana instances that use this plugin.
+
 ## Development
 
 ### Prerequisites
