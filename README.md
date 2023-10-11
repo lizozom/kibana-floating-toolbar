@@ -77,7 +77,7 @@ It will watch any changes in the plugin and rebuild it as needed.
 Navigate into the plugin directory (within the kibana repository) and build it:
 
 ```
-cd plugins/custom-kibana-theme
+cd plugins/kibana-floating-toolbar
 yarn build
 ```
 
